@@ -8,7 +8,7 @@ Ressources communes pour les tests de compilation.
 
 </div>
 
-Ajoutez-vous dans la section [contributeurs]() si vous commitez sur ce projet.
+Ajoutez-vous dans la section [contributeurs](#contributeurs) si vous commitez sur ce projet.
 
 ## Structuration
 
