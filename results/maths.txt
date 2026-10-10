@@ -2,22 +2,18 @@
 resn 0
 push 9999999
 dbg
-resn 0
 push 1
 drop 1
-resn 0
 push 0
 push 1
 sub
 push 3
 add
 drop 1
-resn 0
 push 6
 push 3
 sub
 drop 1
-resn 0
 push 4
 push 2
 push 6
@@ -28,7 +24,6 @@ push 4
 mul
 sub
 drop 1
-resn 0
 push 14
 push 0
 push 14
@@ -41,7 +36,6 @@ add
 push 23
 sub
 drop 1
-resn 0
 push 14
 push 2
 div
@@ -56,7 +50,6 @@ add
 mul
 add
 drop 1
-resn 0
 push 16
 push 0
 push 1
@@ -75,108 +68,86 @@ push 7
 mod
 sub
 dbg
-resn 0
 push 9999999
 dbg
-resn 0
 push 1
 push 1
 cmpeq
 drop 1
-resn 0
 push 1
 push 2
 cmpeq
 drop 1
-resn 0
 push 1
 push 1
 cmpne
 drop 1
-resn 0
 push 1
 push 2
 cmpne
 drop 1
-resn 0
 push 1
 push 1
 cmplt
 drop 1
-resn 0
 push 1
 push 2
 cmplt
 drop 1
-resn 0
 push 1
 push 1
 cmple
 drop 1
-resn 0
 push 1
 push 2
 cmple
 drop 1
-resn 0
 push 1
 push 1
 cmpgt
 drop 1
-resn 0
 push 2
 push 1
 cmpgt
 drop 1
-resn 0
 push 1
 push 2
 cmpgt
 drop 1
-resn 0
 push 1
 push 1
 cmpge
 drop 1
-resn 0
 push 1
 push 2
 cmpge
 drop 1
-resn 0
 push 9999999
 dbg
-resn 0
 push 1
 push 1
 and
 drop 1
-resn 0
 push 1
 push 0
 and
 drop 1
-resn 0
 push 3
 push 1
 and
 drop 1
-resn 0
 push 1
 push 1
 or
 drop 1
-resn 0
 push 1
 push 0
 or
 drop 1
-resn 0
 push 3
 push 1
 or
 drop 1
-resn 0
 push 1
 push 1
 cmpeq
@@ -185,7 +156,6 @@ push 1
 cmpeq
 and
 drop 1
-resn 0
 push 1
 push 2
 cmpeq
@@ -194,7 +164,6 @@ push 1
 cmpeq
 and
 drop 1
-resn 0
 push 1
 push 1
 cmpeq
@@ -203,7 +172,6 @@ push 1
 cmpeq
 or
 drop 1
-resn 0
 push 1
 push 2
 cmpeq
@@ -212,7 +180,6 @@ push 1
 cmpeq
 or
 drop 1
-resn 0
 push 1
 push 1
 cmpeq
@@ -225,7 +192,6 @@ push 1
 cmpeq
 or
 dbg
-resn 0
 push 1
 push 1
 cmpeq
@@ -242,34 +208,27 @@ cmpeq
 and
 or
 dbg
-resn 0
 push 9999999
 dbg
-resn 0
 push 0
 not
 drop 1
-resn 0
 push 1
 not
 drop 1
-resn 0
 push 3
 not
 drop 1
-resn 0
 push 1
 push 1
 cmpeq
 not
 drop 1
-resn 0
 push 1
 not
 push 1
 cmpeq
 drop 1
-resn 0
 push 1
 push 1
 cmpeq
@@ -279,7 +238,6 @@ push 1
 cmpeq
 and
 drop 1
-resn 0
 push 1
 push 1
 cmpeq
@@ -289,7 +247,6 @@ cmpeq
 and
 not
 drop 1
-resn 0
 push 1
 push 2
 cmpeq
@@ -299,7 +256,6 @@ push 1
 cmpeq
 or
 drop 1
-resn 0
 push 1
 push 1
 cmpeq
@@ -313,7 +269,6 @@ push 1
 cmpeq
 or
 drop 1
-resn 0
 push 1
 push 1
 cmpeq
@@ -327,7 +282,6 @@ cmpeq
 or
 not
 drop 1
-resn 0
 push 1
 push 1
 cmpeq
@@ -341,7 +295,6 @@ cmpeq
 or
 and
 drop 1
-resn 0
 push 1
 push 1
 cmpeq
